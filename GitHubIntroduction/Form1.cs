@@ -20,6 +20,7 @@ namespace GitHubIntroduction
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Podatak je unet.";
+            label1.BackColor = System.Drawing.Color.White;
         }
     }
 }
