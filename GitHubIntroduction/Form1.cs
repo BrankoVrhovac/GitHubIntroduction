@@ -22,6 +22,7 @@ namespace GitHubIntroduction
             label1.Text = "Podatak je unet.";
             label1.BackColor = System.Drawing.Color.White;
             label1.Width = 120;
+            label1.Text = "Podatak je obrisan.";
         }
     }
 }
