@@ -20,11 +20,11 @@ namespace GitHubIntroduction
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Podatak je unet.";
-            label1.BackColor = System.Drawing.Color.White;
+            label1.BackColor = System.Drawing.Color.Black;
             label1.Width = 120;
             label1.Text = "Podatak je obrisan.";
             label1.Text = "Podatak je obrisan.";
-            label1.Text = "Podatak je unet.";
+            label1.Text = "zarko hajder nema pojma";
         }
     }
 }
