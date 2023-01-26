@@ -65,11 +65,11 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(149, 99);
+            this.button2.Location = new System.Drawing.Point(62, 98);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 3;
-            this.button2.Text = "button2";
+            this.button2.Text = "taralala";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
