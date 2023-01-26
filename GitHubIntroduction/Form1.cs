@@ -24,7 +24,7 @@ namespace GitHubIntroduction
             label1.Width = 120;
             label1.Text = "Podatak je obrisan.";
             label1.Text = "Podatak je obrisan.";
-            label1.Text = "";
+            label1.Text = "zarko hajder nema pojma";
         }
     }
 }
