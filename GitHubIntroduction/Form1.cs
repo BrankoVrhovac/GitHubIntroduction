@@ -26,5 +26,10 @@ namespace GitHubIntroduction
             label1.Text = "Podatak je obrisan.";
             label1.Text = "Podatak je unet.";
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
