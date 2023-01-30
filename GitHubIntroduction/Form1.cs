@@ -25,6 +25,7 @@ namespace GitHubIntroduction
             label1.Text = "Podatak je obrisan.";
             label1.Text = "Podatak je obrisan.";
             label1.Text = "Podatak je unet.";
+            MessageBox.Show("pejovic");
         }
     }
 }
